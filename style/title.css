@@ -1,0 +1,18 @@
+html {
+  background-color: rgb(250, 249, 246);
+}
+div {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+p {
+  font-family: Manrope;
+  font-size: 4.813rem;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 2.5rem;
+}
+.matt {
+  margin-top: 2.5rem;
+}

@@ -1,0 +1,26 @@
+.nav {
+  display: grid;
+  margin-top: 2.813rem;
+}
+.skills-button {
+  font-size: 1.875rem;
+  margin-bottom: 0.625rem;
+  
+}
+.project-button {
+  font-size: 1.875rem;
+  margin-bottom: 0.625rem;
+}
+.contact-button {
+  font-size: 1.875rem;
+  margin-bottom: 0.624rem;
+}
+.resume-button {
+  font-size: 1.875rem;
+  margin-bottom: 0.624rem;
+}
+a {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}

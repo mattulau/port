@@ -1,0 +1,47 @@
+html {
+  background-color: rgb(250, 249, 246);
+}
+.about-section {
+  display: grid;
+  justify-content: center;
+}
+.about-me {
+  font-size: 2.813rem;
+  text-align: center;
+  font-family: manrope;
+}
+.about {
+  font-size: 1.25rem;
+  font-family: manrope;
+  width: 31.25rem;
+}
+.about-img {
+  width: 20.75rem;
+  height: 20.75rem;
+  object-fit: cover;
+  border-radius: 300px;
+}
+.about-contain {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+}
+.about-img-contain {
+  align-items: center;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
+.Back {
+  font-family: manrope;
+  font-size: 1.875rem;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0.938rem;
+}
+.back-contain {
+  display: grid;
+}
